@@ -20,7 +20,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![![site screenshot](/assets/images/screenshot.jpeg](/screenshot.jpeg)
+![site screenshot](https://github.com/plantpirate/fm_recipe_page/blob/main/assets/images/screenshot.jpeg)
 
 
 ### Links
