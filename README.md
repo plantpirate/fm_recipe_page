@@ -26,7 +26,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [https://github.com/plantpirate/fm_recipe_page]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://main--ornate-travesseiro-359f1c.netlify.app/]
 
 ## My process
 My first steps were to figure out which texts were headings, a paragraphs, and which text made up section or list elements. From there, I wrapped those elements with the appropriate tags according to the design image. 
