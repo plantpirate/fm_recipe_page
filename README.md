@@ -61,6 +61,9 @@ Using this method to select multiple divs had been an issue for me on a smaller 
 .proud-of-this-css {
   color: papayawhip;
 }
+.grid-container>div:nth-of-type(-n+6) {
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+}
 ```
 
 
