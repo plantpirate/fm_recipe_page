@@ -56,7 +56,7 @@ p, li {
     border-radius: 20px;
     margin: 50px auto;
     padding: 40px;
-    width: 750px;
+    width: 75%;
     flex-direction: column;
     justify-content: center;
 }
@@ -101,7 +101,6 @@ p, li {
 
 @media  (max-width: 375px) {  
     .container {
-        width: 350px;
         border-radius: 0px;
         padding: 0px;
     }
