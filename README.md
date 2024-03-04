@@ -54,9 +54,6 @@ Along with grid, I wanted to attempt using the nth-of-type selector since that s
 Using this method to select multiple divs had been an issue for me on a smaller project, but i found better resources this time that allowed me to gain a better understanding of the selector.  
 
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
 .proud-of-this-css {
   color: papayawhip;
